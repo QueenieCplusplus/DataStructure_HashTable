@@ -6,15 +6,15 @@ We have all used a dictionary. Dictionay-alike data are found in many apps and d
 
 # Ops in a Symbol Table
 
-1)
+1) check whether the name is in table or not
 
-2)
+2) retrieve attribute of the name using getter
 
-3)
+3) modify the attribute of the name using setter
 
-4)
+4) insert a pair of new data (name: attributes)
 
-5)
+5) delete a pair of existing data (name: attributes)
 
 
 
